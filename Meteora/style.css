@@ -1,0 +1,43 @@
+.texto-menor{
+    font-size: 13px;
+    color: white;
+}
+
+.divs-facilidades{
+    width: 325px;
+    color: #daff01;
+}
+
+.btn{
+    background-color: #9353ff;
+    border: none;
+    border-radius: 0;
+}
+.text-center{
+    color: rgb(0, 0, 0);
+    padding: 20px 0;
+}
+
+.promo-title{
+    color: #000;
+}
+
+#button-addon2{
+    background-color: #9353ff;
+    color: azure;
+    border: solid black 1px;
+}
+
+.card{
+    border-radius: 0;
+}
+
+.card-title, .price{
+    font-weight: bold;
+}
+
+.text{
+    color: white;
+    padding: 20px 0;
+}
+
